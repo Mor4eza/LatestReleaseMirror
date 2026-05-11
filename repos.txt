@@ -22,3 +22,4 @@ IRNova/Nova-Proxy-App
 ThisIsDara/mhr-cfw-go
 MaroMushii/Pigeon
 ircfspace/teleMirror
+2dust/v2rayN
