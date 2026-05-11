@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayn"></div>
+
+### 2dust--v2rayN
+
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+
+---
+
 <div id="irnova--nova-proxy-app"></div>
 
 ### IRNova--Nova-Proxy-App
@@ -186,12 +198,12 @@ sha256sum FILE_NAME
 
 ### MaroMushii--Pigeon
 
-🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v1.1.3</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v1.1.3)
+🔗 [source](https://github.com/MaroMushii/Pigeon) – [<code><small>v1.1.0</small></code>](https://github.com/MaroMushii/Pigeon/releases/tag/v1.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `Pigeon-1.1.3.dmg` | 10.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/MaroMushii/Pigeon/Pigeon-1.1.3.dmg) |
-| `Pigeon-1.1.3.zip` | 9.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/MaroMushii/Pigeon/Pigeon-1.1.3.zip) |
+| `Pigeon-1.1.0.dmg` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/MaroMushii/Pigeon/Pigeon-1.1.0.dmg) |
+| `Pigeon-1.1.0.zip` | 9.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/MaroMushii/Pigeon/Pigeon-1.1.0.zip) |
 | `SHA256SUMS.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/MaroMushii/Pigeon/SHA256SUMS.txt) |
 
 ---
@@ -248,15 +260,15 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.21</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.21)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.18.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.18.apk) |
-| `mhrv-rs-android-universal-v1.9.18.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.18.apk) |
-| `mhrv-rs-android-x86-v1.9.18.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.18.apk) |
-| `mhrv-rs-android-x86_64-v1.9.18.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.18.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.21.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.21.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.21.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.21.apk) |
+| `mhrv-rs-android-universal-v1.9.21.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.21.apk) |
+| `mhrv-rs-android-x86-v1.9.21.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.21.apk) |
+| `mhrv-rs-android-x86_64-v1.9.21.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.21.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Mor4eza/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
